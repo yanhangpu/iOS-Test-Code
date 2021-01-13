@@ -12,7 +12,7 @@ import XCTest
 class LeetCodeTests: XCTestCase {
 
     func testExample() throws {
-        let result = ArrayUnit.removeDuplicates(array: [1,1,1,2,2,2,3,3,3,4,4,4,5,5,5])
+        let result = ArrayUnit.removeDuplicates(array: [1,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,7,8,9])
         NSLog("result:\(result)")
     }
 
